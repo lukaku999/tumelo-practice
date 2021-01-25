@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tumelo-practice.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tumelo-practice.git/static/js/main.1c4e74d2.chunk.js",
+    "main.js.map": "/tumelo-practice.git/static/js/main.1c4e74d2.chunk.js.map",
+    "runtime-main.js": "/tumelo-practice.git/static/js/runtime-main.e6192549.js",
+    "runtime-main.js.map": "/tumelo-practice.git/static/js/runtime-main.e6192549.js.map",
+    "static/js/2.48c6e473.chunk.js": "/tumelo-practice.git/static/js/2.48c6e473.chunk.js",
+    "static/js/2.48c6e473.chunk.js.map": "/tumelo-practice.git/static/js/2.48c6e473.chunk.js.map",
+    "static/js/3.8487320c.chunk.js": "/tumelo-practice.git/static/js/3.8487320c.chunk.js",
+    "static/js/3.8487320c.chunk.js.map": "/tumelo-practice.git/static/js/3.8487320c.chunk.js.map",
+    "index.html": "/tumelo-practice.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tumelo-practice.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.48c6e473.chunk.js.LICENSE.txt": "/tumelo-practice.git/static/js/2.48c6e473.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tumelo-practice.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6192549.js",
+    "static/js/2.48c6e473.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1c4e74d2.chunk.js"
+  ]
+}
